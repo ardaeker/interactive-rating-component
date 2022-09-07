@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-FjVK3oeQg_)
-- Live Site URL: [Live site URL here](https://ardaekerforntendmentor-01.netlify.app/)
+- Live Site URL: [Live site URL here](https://ardaekerforntendmentor-02.netlify.app/)
 
 ## Author
 
