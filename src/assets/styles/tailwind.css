@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --color-*: initial;
+
+  --color-white: #ffffff;
+
+  --color-blue-800: #262e38;
+  --color-blue-900: #131518;
+
+  --color-gray-500: #969fad;
+
+  --color-orange-800: #fc7614;
+}
+
+@layer utilities {
+  .min-h-screen {
+    min-height: 100vh;
+    min-height: 100dvh;
+  }
+
+  .bg-gradient {
+    background: radial-gradient(98.96% 98.96% at 50% 0%, #232a34 0%, #181e27 100%);
+  }
+}

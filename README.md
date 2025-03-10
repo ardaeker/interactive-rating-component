@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Frontend Mentor - Interactive rating component solution
 
-## Getting Started
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
 
-First, run the development server:
+## Table of contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
+- [Built with](#built-with)
+- [Key Features](#key-features)
+- [Links](#links)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### The challenge
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Users should be able to:
 
-## Learn More
+- ✅ View the optimal layout for the app depending on their device's screen size
+- ✅ See hover states for all interactive elements on the page
+- ✅ Select and submit a number rating
+- ✅ See the "Thank you" card state after submitting a rating
 
-To learn more about Next.js, take a look at the following resources:
+### Screenshots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Mobile Preview                | Tablet Preview                | Desktop Preview                |
+| ----------------------------- | ----------------------------- | ------------------------------ |
+| ![](./screenshots/mobile.png) | ![](./screenshots/tablet.png) | ![](./screenshots/desktop.png) |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Built with
 
-## Deploy on Vercel
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Key Features
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 📱 Semantic HTML5 markup
+- 🎨 Mobile-first responsive design using Tailwind CSS
+- 🔍 Proper SEO setup with metadata
+
+## Links
+
+- Solution URL: [Frontend Mentor ↗](https://www.frontendmentor.io/solutions/nft-preview-card-component-_zrp_o4Bhh)
+- Live Site URL: [Open on Vercel ↗](https://nft-preview-card-component-dusky-gamma.vercel.app)
