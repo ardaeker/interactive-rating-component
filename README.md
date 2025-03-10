@@ -43,5 +43,5 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Frontend Mentor ↗](https://www.frontendmentor.io/solutions/nft-preview-card-component-_zrp_o4Bhh)
-- Live Site URL: [Open on Vercel ↗](https://nft-preview-card-component-dusky-gamma.vercel.app)
+- Solution URL: [Frontend Mentor ↗](https://www.frontendmentor.io/solutions/interactive-rating-component-7neyjidTXs)
+- Live Site URL: [Open on Vercel ↗](https://interactive-rating-component-weld-three.vercel.app/)
